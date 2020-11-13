@@ -5,6 +5,7 @@ class ClassOne
   end
 
   def self.uncovered
+    # not tested initially
     "uncovered"
   end
 
